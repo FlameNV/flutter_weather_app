@@ -1,16 +1,20 @@
-# flutter_weather_app
+# Weather app
 
-A new Flutter project.
+Created by Vyzhol Nikita
 
-## Getting Started
+## How install
 
-This project is a starting point for a Flutter application.
+1. Clone repository
+2. Do pub get
+3. Find out the weather :)
 
-A few resources to get you started if this is your first Flutter project:
+## Used api
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Weather API](https://openweathermap.org/api)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Used packages
+
+- flutter_bloc
+- http
+- equatable
+
